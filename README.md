@@ -26,5 +26,5 @@ If you spot mistakes or want to contribute in improving this wrapper, feel free 
 
 
 ## Installation
-- Unpack Release and swithc on *.exe
+- Unpack Release and switch on *.exe
 - Respository include complete project for VS
