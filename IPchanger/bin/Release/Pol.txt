@@ -1,0 +1,16 @@
+﻿Search;Sprawdź
+Name:;Nazwa:
+Description:;Opis:
+SubnetMask:;Maska:
+Address:;Adres:
+Addressing:;Adresowanie:
+MAC address:;Adres MAC:
+Type:;Typ:
+Speed:;Prędkość:
+DHCP:;Serwer DHCP:
+Settings;Zmiana ustawień
+IP address:;Adres IP:
+Static;Statyczne
+Dynamic;Dynamiczne
+Select language;Wybierz język
+none;brak

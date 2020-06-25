@@ -1,0 +1,16 @@
+﻿Search;Поиск
+Name:;название:
+Description:;Описание:
+SubnetMask:;Маска подсети:
+Address:;Адрес:
+Addressing:;адресация:
+MAC address:;Адрес MAC:
+Type:;Тип:
+Speed:;скорость:
+DHCP:;DHCP:
+Settings;настройки
+IP address:;Адрес IP:
+Static;статический
+Dynamic;динамический
+Select language;Выберите язык
+none;никто

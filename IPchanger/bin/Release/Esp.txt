@@ -1,0 +1,16 @@
+﻿Search;Buscar
+Name:;Nombre:
+Description:;Descripción:
+SubnetMask:;Máscara de subred:
+Address:;Dirección:
+Addressing:;Direccionamiento:
+MAC address:;Dirección MAC:
+Type:;Tipo:
+Speed:;Velocidad:
+DHCP:;DHCP:
+Settings;Configuraciones
+IP address:;Dirección IP:
+Static;Estático
+Dynamic;Dinámico
+Select language;Seleccione el idioma
+none;ninguno
