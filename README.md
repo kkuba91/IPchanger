@@ -8,7 +8,7 @@
 
 Fast change IPv4 for selected adapter on the Windows environment
 
-Application uses Administrator priviligies to work (asking by itself on the beggining).
+Application uses Administrator priviligies to work (asking by itself on the beginning).
 
 ![alt text](https://github.com/kkuba91/IPchanger/blob/master/ScreenShot_001.png?raw=true)
 
